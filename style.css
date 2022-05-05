@@ -1,0 +1,31 @@
+.heading{
+    font-size:19px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px maroon;
+
+}
+
+.note{
+    font-size:15px;
+    color:black;
+
+}
+
+canvas{
+    border-style: double;
+    border-color: firebrick;
+    border-width: 5px;
+    box-shadow: 8px 8px 8px black;
+
+}
+.copy_footer{
+    position: fixed;
+    color: cornsilk;
+    bottom:0 ;
+    width:100%;
+    background-color:darkgoldenrod;
+    line-height: 2;
+    text-align:center;
+
+}
